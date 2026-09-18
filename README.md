@@ -1,5 +1,8 @@
 # PLUTO_BLARE
-This is an Alarm Clock
+This is an Alarm Clock.
+
+To see the full project look in folders CAD, Firmware, PCB.
+To build and use the folder Production.
 
 How to change settings:
 
